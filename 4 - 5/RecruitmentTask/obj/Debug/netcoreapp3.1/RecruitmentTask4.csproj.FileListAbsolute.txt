@@ -1,0 +1,11 @@
+C:\Users\M\source\repos\RecruitmentTask\RecruitmentTask\bin\Debug\netcoreapp3.1\RecruitmentTask4.exe
+C:\Users\M\source\repos\RecruitmentTask\RecruitmentTask\bin\Debug\netcoreapp3.1\RecruitmentTask4.deps.json
+C:\Users\M\source\repos\RecruitmentTask\RecruitmentTask\bin\Debug\netcoreapp3.1\RecruitmentTask4.runtimeconfig.json
+C:\Users\M\source\repos\RecruitmentTask\RecruitmentTask\bin\Debug\netcoreapp3.1\RecruitmentTask4.runtimeconfig.dev.json
+C:\Users\M\source\repos\RecruitmentTask\RecruitmentTask\bin\Debug\netcoreapp3.1\RecruitmentTask4.dll
+C:\Users\M\source\repos\RecruitmentTask\RecruitmentTask\bin\Debug\netcoreapp3.1\RecruitmentTask4.pdb
+C:\Users\M\source\repos\RecruitmentTask\RecruitmentTask\obj\Debug\netcoreapp3.1\RecruitmentTask4.csprojAssemblyReference.cache
+C:\Users\M\source\repos\RecruitmentTask\RecruitmentTask\obj\Debug\netcoreapp3.1\RecruitmentTask4.AssemblyInfoInputs.cache
+C:\Users\M\source\repos\RecruitmentTask\RecruitmentTask\obj\Debug\netcoreapp3.1\RecruitmentTask4.AssemblyInfo.cs
+C:\Users\M\source\repos\RecruitmentTask\RecruitmentTask\obj\Debug\netcoreapp3.1\RecruitmentTask4.dll
+C:\Users\M\source\repos\RecruitmentTask\RecruitmentTask\obj\Debug\netcoreapp3.1\RecruitmentTask4.pdb
