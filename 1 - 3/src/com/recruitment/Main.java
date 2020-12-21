@@ -16,11 +16,11 @@ public class Main {
         String path = "D:\\logger.txt";
         SecondProgram program = new SecondProgram(path);
 
-        CountCharacters count = new CountCharacters("aassdd");
+        
 
         program.runProgram();
 
-        //count.appearanceCount();
+
 
 
     }

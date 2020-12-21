@@ -20,7 +20,7 @@ public class CountCharacters {
         for (char current : file.toCharArray()){
             if (characterMap.containsKey(current)){
                 int count = characterMap.get(current) + 1;
-                System.out.println(count + " : " + current);
+
                 characterMap.replace(current,count);
             }else characterMap.put(current,1);
         }
