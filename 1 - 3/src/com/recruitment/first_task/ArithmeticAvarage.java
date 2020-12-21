@@ -7,15 +7,18 @@ public class ArithmeticAvarage {
 
     public List<Integer> rewriteArrayToList(int[] array){
         List result = new LinkedList();
-        for (int i = 0; i < array.length; i ++){
-            if ((i == 0) || (i == array.length - 1)){
-                if(i == 0){
-                    result.add(countArithmeticAvarage(50,array[i], array[i +1]));
-                }
-                result.add(countArithmeticAvarage(array[i - 1],array[i], 50));
+        int index = 1;
+        result.add(countArithmeticAvarage(50,array[index -1], array[index]));
+
+        while (index < array.length - 1){
+
+                result.add(countArithmeticAvarage(array[index - 1],array[index], array[index +1]));
+                index ++;
             }
-            result.add(countArithmeticAvarage(array[i - 1],array[i], array[i +1]));
-        }
+
+        result.add(countArithmeticAvarage(array[index - 1],array[index], 50));
+
+
         return result;
     }
 

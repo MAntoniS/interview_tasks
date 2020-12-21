@@ -7,7 +7,7 @@ public class EveryThird {
 
     public List<Integer> rewriteArrayToList(int[] array){
         List<Integer> result = new LinkedList();
-        for(int i = array.length; i >= 0; i --){
+        for(int i = array.length - 1; i >= 0; i --){
             if((i + 1) % 3 == 0){
                 result.add(array[i]);
             }
